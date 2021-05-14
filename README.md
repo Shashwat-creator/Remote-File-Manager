@@ -1,7 +1,3 @@
 # Remote File Manager
-This is a server-client appliction with multithreaded server and command line interface
-It has features
-Sign-in option
-Get list of files with there size from server
-Download File
+This is a server-client appliction with multithreaded server and command line interfaceIt has features to sign-in,get list of files with there size from server,download File and
 Save as option to save file
